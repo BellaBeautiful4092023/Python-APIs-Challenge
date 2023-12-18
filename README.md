@@ -15,4 +15,4 @@ The code needed to import the required libraries and load the CSV file with the 
 
 Your main tasks will be to use the Geoapify API and the geoViews Python library and employ your Python skills to create map visualizations.
 
-To succeed on this deliverable of the assignment, open the VacationPy.ipynb starter code and complete the following steps:
+
